@@ -5,5 +5,23 @@ label{
     font-family: Impact;
 }
 body{
-    background-color:slategray;
+    background-color:#708090;
+}
+header{
+    background-color:green;
+    height: 100px;
+}
+footer{
+    background-color: white;
+    height: 100px;
+}
+#div_esquerda{
+    background: violet;
+    height: 100px;
+
+}
+#div_direita{
+    background: firebrick;
+    height: 100px;
+
 }
