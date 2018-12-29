@@ -12,16 +12,21 @@ header{
     height: 100px;
 }
 footer{
+    clear: both;
     background-color: white;
     height: 100px;
 }
 #div_esquerda{
     background: violet;
-    height: 100px;
+    min-height: 200px;
+    width: 60%;
+    float: left;
 
 }
 #div_direita{
     background: firebrick;
-    height: 100px;
+    min-height: 200px;
+    width: 40%;
+    float: right;
 
 }
